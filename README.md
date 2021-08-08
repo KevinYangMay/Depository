@@ -2,4 +2,4 @@
 # Git 学习
 - feature-A
 - fix-B
-- featur-C
+- feature-C
